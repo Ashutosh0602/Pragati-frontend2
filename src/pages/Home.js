@@ -7,7 +7,7 @@ function Home() {
       <div className="banner">
         <div className="overlay">
           <h1>
-            Looking for parking. <br />{" "}
+            Looking for parking <br />{" "}
             <span>You have come to the right place</span>
           </h1>
         </div>
