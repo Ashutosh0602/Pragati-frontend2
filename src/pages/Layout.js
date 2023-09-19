@@ -2,6 +2,7 @@ import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { Outlet, Link, useNavigate, useLocation } from "react-router-dom";
 import { clearUser } from "../reducers/userReducer";
+import logo from "../img/prlogo.jpeg";
 import "./../css/layout.scss";
 
 const Layout = () => {
@@ -25,6 +26,7 @@ const Layout = () => {
     <div className="main-container">
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container">
+          <img style={{ width: "2rem", margin: "0.5rem" }} src={logo} />
           <a className="navbar-brand" href="#">
             PRAGATI
           </a>
