@@ -15,7 +15,7 @@ const About = () => {
             within the community with users in search of affordable parking
             spaces. Our web application assists parking owners in effectively
             renting out their additional parking spaces, providing them with an
-            opportunity to earn extra income. Additionally, rent a Spot
+            opportunity to earn extra income. Additionally, Pragati
             facilitates users in finding cost-effective parking spaces.
           </p>
         </div>
